@@ -1,4 +1,5 @@
 # FreeHololiveModels
+a gift for all hololive fans  
 have fun yourself)  
 somes are .rar because they are bigger than 25MB  
 use blender with add-ons to open .vrm models  
