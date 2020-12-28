@@ -1,1 +1,2 @@
 # FreeHololiveModels
+# have fun yourself)
